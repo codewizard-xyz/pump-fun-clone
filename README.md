@@ -4,7 +4,7 @@ The **Pump Fun Clone Script** provides a foundation for creating your own Telegr
 
 **Want to launch your own Pump Fun game?** Let us handle the technology so you can focus on marketing and growing your audience.
 
-![Pump Fun Clone GitHub Image](pumpfun.jpg "Pump Fun Clone Script | GitHub")
+![Pump Fun Clone GitHub Image](pumpfun.png "Pump Fun Clone Script | GitHub")
 
 
 ## Why Choose This Solution?
